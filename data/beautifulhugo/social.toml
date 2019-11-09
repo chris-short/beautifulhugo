@@ -113,12 +113,6 @@ title = "Itch.io"
 icon = "fas fa-gamepad"
 
 [[social_icons]]
-id = "keybase"
-url = "https://keybase.io/%s"
-title = "Keybase"
-icon = "fas fa-key"
-
-[[social_icons]]
 id = "vk"
 url = "https://vk.com/%s"
 title = "VK"
@@ -147,3 +141,9 @@ id = "keybase"
 url = "https://keybase.io/%s"
 title = "Keybase"
 icon = "fab fa-keybase"
+
+[[social_icons]]
+id = "podcast"
+url = "%s"
+title = "Podcast"
+icon = "fab fa-podcast"
